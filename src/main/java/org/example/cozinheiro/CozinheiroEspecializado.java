@@ -1,7 +1,5 @@
 package org.example.cozinheiro;
 
-import org.example.pedido.Pedido;
-
 public class CozinheiroEspecializado extends Cozinheiro {
 
     public CozinheiroEspecializado(Cozinheiro proximo) {
